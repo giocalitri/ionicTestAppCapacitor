@@ -2,12 +2,12 @@
 <resources>
   <string name="app_name">testAppCapacitor</string>
   <string name="title_activity_main">testAppCapacitor</string>
-  <string name="package_name">io.ionic.testAppCapacitor</string>
-  <string name="fileprovider_authority">io.ionic.testAppCapacitor.fileprovider</string>
-  <string name="custom_url_scheme">io.ionic.testAppCapacitor</string>
+  <string name="package_name">io.ionic.giovanniapp</string>
+  <string name="fileprovider_authority">io.ionic.giovanniapp.fileprovider</string>
+  <string name="custom_url_scheme">io.ionic.giovanniapp</string>
   <string name="ionic_app_id">4e2349d4</string>
-  <string name="ionic_channel_name">mmmm</string>
-  <string name="ionic_update_method">none</string>
+  <string name="ionic_channel_name">Master</string>
+  <string name="ionic_update_method">background</string>
   <string name="ionic_max_versions">2</string>
   <string name="ionic_min_background_duration">30</string>
   <string name="ionic_update_api">https://api.ionicjs.com</string>
