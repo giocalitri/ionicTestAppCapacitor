@@ -84,6 +84,6 @@
     <key>IonUpdateMethod</key>
     <string>auto</string>
     <key>IonApi</key>
-    <string>https://api-staging.ionicjs.com</string>
+    <string>https://api.ionicjs.com</string>
   </dict>
 </plist>
